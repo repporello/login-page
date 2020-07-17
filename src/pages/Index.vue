@@ -73,7 +73,7 @@ export default {
       buttons: [
         {
           title: 'Sign In',
-          bgColor: $negativ
+          bgColor: '#414237'
         },
         {
           title: 'Sign in with Facebook',
